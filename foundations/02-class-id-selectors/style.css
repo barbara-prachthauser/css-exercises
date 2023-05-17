@@ -1,0 +1,22 @@
+p, div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    background-color: rgb(255, 166, 166);
+}
+
+.three{
+    font-size: 25px;
+}
+
+#two{
+    color: blue;
+    font-size: 40px;
+}
+
+#four{
+    font-weight: bolder;
+    background-color: rgb(164, 255, 111);
+    font-size: 25px;
+}
